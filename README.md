@@ -6,4 +6,4 @@ Utilisez la commande : __mvn clean insall__
 
 Utilisez la commande : __mvn jetty:run__
 
-Ensuite allez sur : <localhost:8080/api/v1/categories>
+Ensuite allez sur : <http://localhost:8080/api/v1/categories>
