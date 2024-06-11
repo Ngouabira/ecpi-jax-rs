@@ -1,9 +1,9 @@
 ## Pour packager le projet
 
-Utilisez la commande : __ mvn clean insall ___
+Utilisez la commande : __mvn clean insall___
 
 ## Pour lancer  le serveur
 
-Utilisez la commande : __ mvn jetty:run ___
+Utilisez la commande : __mvn jetty:run___
 
 Ensuite allez sur : localhost:8080/api/v1/categories
